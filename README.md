@@ -8,7 +8,7 @@ Based on Day 84 of Dr. Angela Yu’s Bootcamp, what started as a simple text-bas
 ---
 
 ## 🎥 Demo
-➡️ [Demo Video](./demo.mp4) (or upload GIF/screenshot here)  
+➡️ [Demo Video](./demo.mp4)
 
 ---
 
